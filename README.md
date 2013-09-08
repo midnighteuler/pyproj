@@ -1,4 +1,4 @@
 pyproj
 ======
 
-Python project skeleton with pyenv, etc.
+Python project skeleton with pyenv.
