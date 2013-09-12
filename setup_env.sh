@@ -8,4 +8,4 @@ pyenv global 2.7.5
 pyenv rehash
 pyenv virtualenv 2.7.5 project_env
 pyenv shell project_env
-pip install -r requirements.txt
+cat requirements.txt | xargs pip install
